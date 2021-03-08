@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-movie-frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/simple-movie-frontend/static/js/main.718f8af9.chunk.js",
+    "main.js.map": "/simple-movie-frontend/static/js/main.718f8af9.chunk.js.map",
+    "runtime-main.js": "/simple-movie-frontend/static/js/runtime-main.541a5fde.js",
+    "runtime-main.js.map": "/simple-movie-frontend/static/js/runtime-main.541a5fde.js.map",
+    "static/css/2.00832c6e.chunk.css": "/simple-movie-frontend/static/css/2.00832c6e.chunk.css",
+    "static/js/2.8420bff5.chunk.js": "/simple-movie-frontend/static/js/2.8420bff5.chunk.js",
+    "static/js/2.8420bff5.chunk.js.map": "/simple-movie-frontend/static/js/2.8420bff5.chunk.js.map",
+    "static/js/3.b3208508.chunk.js": "/simple-movie-frontend/static/js/3.b3208508.chunk.js",
+    "static/js/3.b3208508.chunk.js.map": "/simple-movie-frontend/static/js/3.b3208508.chunk.js.map",
+    "index.html": "/simple-movie-frontend/index.html",
+    "static/css/2.00832c6e.chunk.css.map": "/simple-movie-frontend/static/css/2.00832c6e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/simple-movie-frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8420bff5.chunk.js.LICENSE.txt": "/simple-movie-frontend/static/js/2.8420bff5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.541a5fde.js",
+    "static/css/2.00832c6e.chunk.css",
+    "static/js/2.8420bff5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.718f8af9.chunk.js"
+  ]
+}
